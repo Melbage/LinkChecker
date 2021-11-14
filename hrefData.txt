@@ -1,0 +1,19 @@
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/Melbage2014Scores.htm:<link rel=File-List href="Melbage2014Scores_files/filelist.xml">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/Melbage2014Scores.htm:<link rel=Edit-Time-Data href="Melbage2014Scores_files/editdata.mso">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/Melbage2014Scores.htm:<link rel=OLE-Object-Data href="Melbage2014Scores_files/oledata.mso">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link rel=File-List href="charity_files/filelist.xml">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link id="shLink" href="charity_files/sheet001.htm">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link id="shLink" href="charity_files/sheet002.htm">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link id="shLink" href="charity_files/sheet003.htm">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+/Users/paulcarter/Documents/GITHUB/Melbage/IONION backup 5june21/Melbage2014Scores.htm:<link rel=File-List href="Melbage2014Scores_files/filelist.xml">
+/Users/paulcarter/Documents/GITHUB/Melbage/IONION backup 5june21/Melbage2014Scores.htm:<link rel=Edit-Time-Data href="Melbage2014Scores_files/editdata.mso">
+/Users/paulcarter/Documents/GITHUB/Melbage/IONION backup 5june21/Melbage2014Scores.htm:<link rel=OLE-Object-Data href="Melbage2014Scores_files/oledata.mso">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/Melbage2014Scores.htm:<link rel=File-List href="Melbage2014Scores_files/filelist.xml">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/Melbage2014Scores.htm:<link rel=Edit-Time-Data href="Melbage2014Scores_files/editdata.mso">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/Melbage2014Scores.htm:<link rel=OLE-Object-Data href="Melbage2014Scores_files/oledata.mso">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link rel=File-List href="charity_files/filelist.xml">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link id="shLink" href="charity_files/sheet001.htm">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link id="shLink" href="charity_files/sheet002.htm">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:<link id="shLink" href="charity_files/sheet003.htm">
+/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io/charity.htm:      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";

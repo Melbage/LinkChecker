@@ -1,0 +1,11 @@
+{
+"Melbagefile":[
+    {
+        "Leaf0":"./ - Root, the zero and the end of leaf will change depending on how name leaf there are",
+        "LeaftCount":"The number of branches on the file path",
+        "Orginal":"The orginal string before any data changes",
+        "FileName": "The files name of files."
+    }
+]
+
+}
