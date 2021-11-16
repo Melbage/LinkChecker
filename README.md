@@ -14,3 +14,4 @@ Run the script
 simple script which looks for all htm files and check if they have href in them. It creates a file ./Data/hrefData.txt
 
 ./Data/hrefData_v1.txt has had the leading "/Users/paulcarter/Documents/GITHUB/Melbage/melbagesite.github.io//" string replaced with "./" in edit editor. (8962 times) 
+testing testing 123
